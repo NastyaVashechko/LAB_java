@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.TestVariant3" tests="19" skipped="0" failures="0" errors="0" timestamp="2024-11-11T14:35:35" hostname="MacBook-Pro-121.local" time="0.082">
+  <properties/>
+  <testcase name="testArrayTask[0](5, 1, 2, [I@7905a0b8)" classname="test.TestVariant3" time="0.006"/>
+  <testcase name="testBooleanTask[0](2, true)" classname="test.TestVariant3" time="0.003"/>
+  <testcase name="testBooleanTask[1](3, false)" classname="test.TestVariant3" time="0.001"/>
+  <testcase name="testBooleanTask[2](0, true)" classname="test.TestVariant3" time="0.0"/>
+  <testcase name="testForTask[0](1, 5, [4, 3, 2])" classname="test.TestVariant3" time="0.011"/>
+  <testcase name="testForTask[1](2, 8, [7, 6, 5, 4, 3])" classname="test.TestVariant3" time="0.001"/>
+  <testcase name="testIfTask[0](1, 2)" classname="test.TestVariant3" time="0.004"/>
+  <testcase name="testIfTask[1](-1, -3)" classname="test.TestVariant3" time="0.001"/>
+  <testcase name="testIfTask[2](0, 10)" classname="test.TestVariant3" time="0.001"/>
+  <testcase name="testIntegerNumbersTask[0](1000, 0)" classname="test.TestVariant3" time="0.0"/>
+  <testcase name="testIntegerNumbersTask[1](2048, 2)" classname="test.TestVariant3" time="0.0"/>
+  <testcase name="testIntegerNumbersTask[2](10240, 10)" classname="test.TestVariant3" time="0.001"/>
+  <testcase name="testSwitchTask[0](1, зима)" classname="test.TestVariant3" time="0.006"/>
+  <testcase name="testSwitchTask[1](4, весна)" classname="test.TestVariant3" time="0.001"/>
+  <testcase name="testSwitchTask[2](8, літо)" classname="test.TestVariant3" time="0.001"/>
+  <testcase name="testSwitchTask[3](10, осінь)" classname="test.TestVariant3" time="0.0"/>
+  <testcase name="testTwoDimensionArrayTask[0]([I@2cb2fc20, 3, 3, [[I@4f4c4b1a)" classname="test.TestVariant3" time="0.009"/>
+  <testcase name="testWhileTask[0](10, 3, [I@5f77d0f9)" classname="test.TestVariant3" time="0.001"/>
+  <testcase name="testWhileTask[1](15, 5, [I@895e367)" classname="test.TestVariant3" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
