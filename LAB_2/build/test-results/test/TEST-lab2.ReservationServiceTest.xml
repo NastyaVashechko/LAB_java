@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lab2.ReservationServiceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-11-11T14:52:23" hostname="MacBook-Pro-121.local" time="0.048">
+  <properties/>
+  <testcase name="testFindNearestReservation()" classname="lab2.ReservationServiceTest" time="0.035"/>
+  <testcase name="testSortCustomersByLastName()" classname="lab2.ReservationServiceTest" time="0.002"/>
+  <testcase name="testFindNearestReservationNotFound()" classname="lab2.ReservationServiceTest" time="0.002"/>
+  <testcase name="testFilterRoomsByTypeAndBeds()" classname="lab2.ReservationServiceTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
