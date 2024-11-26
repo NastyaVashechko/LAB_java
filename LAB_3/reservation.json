@@ -1,0 +1,1 @@
+{"reservationId":"RES001","checkInDate":"1985-03-15","checkOutDate":"1995-05-20","customer":{"customerId":"C001","firstName":"John","lastName":"Doe","email":"john.doe@example.com","phoneNumber":"123-456-7890","birthDate":"1990-01-01","address":"New York","reservations":[]},"room":{"roomId":"R101","type":"Suite","pricePerNight":200.0}}
